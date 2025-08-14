@@ -34,7 +34,7 @@ The system offers **AI-powered resume screening**, seamless appointment scheduli
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ConsultEdge.git
+git clone https://github.com/ridakhan2811/ConsultEdge.git
 cd ConsultEdge
 ```
 ## By Rida Khan
